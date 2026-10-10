@@ -1,0 +1,21 @@
+book_id,title,author,category,year_published,total_copies
+B001,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,5
+B002,To Kill a Mockingbird,Harper Lee,Fiction,1960,4
+B003,1984,George Orwell,Fiction,1949,6
+B004,Sapiens,Yuval Noah Harari,Non-Fiction,2011,4
+B005,Thinking Fast and Slow,Daniel Kahneman,Non-Fiction,2011,3
+B006,A Brief History of Time,Stephen Hawking,Science,1988,3
+B007,The Selfish Gene,Richard Dawkins,Science,1976,2
+B008,Introduction to Algorithms,Cormen et al.,Technology,2009,4
+B009,Clean Code,Robert C. Martin,Technology,2008,5
+B010,Python Crash Course,Eric Matthes,Technology,2015,6
+B011,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fiction,1997,7
+B012,The Hobbit,J.R.R. Tolkien,Fiction,1937,4
+B013,Atomic Habits,James Clear,Self-Help,2018,5
+B014,The Power of Now,Eckhart Tolle,Self-Help,2004,3
+B015,Educated,Tara Westover,Biography,2018,3
+B016,Becoming,Michelle Obama,Biography,2018,4
+B017,The Art of War,Sun Tzu,History,500BC,2
+B018,Guns Germs and Steel,Jared Diamond,History,1997,3
+B019,The Alchemist,Paulo Coelho,Fiction,1988,5
+B020,Pride and Prejudice,Jane Austen,Fiction,1813,3

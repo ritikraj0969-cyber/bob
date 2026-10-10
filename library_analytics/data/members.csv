@@ -1,0 +1,21 @@
+member_id,name,age,membership_type,join_date,email
+M001,Alice Johnson,28,Premium,2020-01-15,alice.j@email.com
+M002,Bob Smith,35,Standard,2019-06-20,bob.s@email.com
+M003,Carol White,22,Student,2021-03-10,carol.w@email.com
+M004,David Brown,45,Premium,2018-11-05,david.b@email.com
+M005,Eve Davis,30,Standard,2020-08-22,eve.d@email.com
+M006,Frank Wilson,19,Student,2022-01-30,frank.w@email.com
+M007,Grace Lee,52,Premium,2017-05-14,grace.l@email.com
+M008,Henry Martinez,27,Standard,2021-07-18,henry.m@email.com
+M009,Iris Taylor,33,Standard,2019-12-01,iris.t@email.com
+M010,Jack Anderson,41,Premium,2020-04-25,jack.a@email.com
+M011,Karen Thomas,24,Student,2022-06-12,karen.t@email.com
+M012,Leo Jackson,38,Standard,2018-09-30,leo.j@email.com
+M013,Mia Harris,29,Premium,2021-02-08,mia.h@email.com
+M014,Noah Clark,17,Student,2023-01-20,noah.c@email.com
+M015,Olivia Lewis,46,Standard,2019-03-17,olivia.l@email.com
+M016,Paul Walker,31,Standard,2020-11-09,paul.w@email.com
+M017,Quinn Robinson,23,Student,2022-09-05,quinn.r@email.com
+M018,Rachel Hall,55,Premium,2016-07-22,rachel.h@email.com
+M019,Sam Young,36,Standard,2021-05-14,sam.y@email.com
+M020,Tina Allen,20,Student,2023-03-28,tina.a@email.com
